@@ -27,7 +27,7 @@
  
   2^x = n
   
-   n = log(n) defa O(n) işlemi yapılıyor dolayısıyla;
+   x = log(n) defa O(n) işlemi yapılıyor dolayısıyla;
 
    Big-O gösterimi = **nlog(n)**
 
